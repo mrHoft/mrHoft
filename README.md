@@ -1,10 +1,17 @@
 ### Hi there! I am Nikolay Hoft, a frontend/game developer from the black sea region.
 
+<!--
 <img align="right" width="64" height="64" title="Author logo" src="http://daytec.ru/img/Ranjy-96.svg">
+-->
 
-[![](https://visitcount.itsvg.in/api?id=mrHoft&icon=0&color=1)](https://visitcount.itsvg.in)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.hoft) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrHoft)
+<div align="right">
+
+  [![](https://visitcount.itsvg.in/api?id=mrHoft&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.hoft) 
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrHoft)
+
+</div>
 
 ### Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,9 +36,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
--->
----
 
+---
+-->
 <!--
 **mrHoft/mrHoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
