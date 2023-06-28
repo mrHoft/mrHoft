@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am frontend/game developer and C++/Python practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects.
+I am a frontend/game developer and C++/Python practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects.
 <!--
 <img align="right" width="64" height="64" title="Author logo" src="http://daytec.ru/img/Ranjy-96.svg">
 -->
