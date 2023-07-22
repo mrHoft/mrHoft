@@ -36,6 +36,8 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+
+![Codewars](https://www.codewars.com/users/mrHoft/badges/large)
 <!--
 ### GitHub Stats:
 
