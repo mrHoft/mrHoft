@@ -32,12 +32,17 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<!--
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+-->
 
 ![Codewars](https://www.codewars.com/users/mrHoft/badges/large)
+
+### Layout examples:
++ [Hoft CV](https://mrhoft.github.io/rsschool-cv/)
++ [Brooklin public library](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/library/)
 <!--
 ### GitHub Stats:
 
