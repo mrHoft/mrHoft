@@ -41,8 +41,11 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 ![Codewars](https://www.codewars.com/users/mrHoft/badges/large)
 
 ### Layout examples:
-+ [Hoft CV](https://mrhoft.github.io/rsschool-cv/)
++ [Hoft CV](https://mrhoft.github.io/CV/)
 + [Brooklin public library](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/library/)
++ [Eco sounds](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/eco-sounds)
++ [Movie search](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/movie-app/)
++ [CSS Meme slider](https://mrhoft.github.io/cssMemeSlider/cssMemeSlider/)
 <!--
 ### GitHub Stats:
 
