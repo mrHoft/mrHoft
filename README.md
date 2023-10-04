@@ -40,6 +40,11 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 ![Codewars](https://www.codewars.com/users/mrHoft/badges/large)
 
+### Projects:
++ Rorschach game [deploy](https://rorschach-game.vercel.app/) (React, SASS, SC, Webpack)
++ Lived [monorepo](https://github.com/mrHoft/lived) (Next, NextAuth, React)
++ Fast-paws game [early deploy](https://fast-paws.onrender.com/game) (React, express, vite, Docker)
+
 ### Layout examples:
 + [Hoft CV](https://mrhoft.github.io/CV/)
 + [Brooklin public library](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/library/)
