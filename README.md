@@ -46,30 +46,20 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 + Fast-paws game [early deploy](https://fast-paws.onrender.com/game) (React, express, vite, Docker)
 
 ### Layout examples:
-+ [Hoft CV](https://mrhoft.github.io/CV/)
-+ [Brooklin public library](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/library/)
-+ [Eco sounds](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/eco-sounds)
-+ [Movie search](https://rolling-scopes-school.github.io/mrhoft-JSFEPRESCHOOL2023Q2/movie-app/)
-+ [CSS Meme slider](https://mrhoft.github.io/cssMemeSlider/cssMemeSlider/)
+- [Hoft CV](https://mrhoft.github.io/CV/)
+- [Audio player](https://mrhoft.github.io/RSSchool/audio-player/)
+- [Eco sounds](https://mrhoft.github.io/RSSchool/eco-sounds/)
+- [Brooklin public library](https://mrhoft.github.io/RSSchool/library/)
+- [Movie search](https://mrhoft.github.io/RSSchool/movie-app/)
+- [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/)
+- [CSS meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/)
 <!--
 ### GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
 -->
+
 <!--
 **mrHoft/mrHoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
