@@ -13,7 +13,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 </div>
 
-### Tech Stack:
+### Tech Stack (frontend):
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,8 +46,8 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 </div>
 
 ### Projects:
-+ [Gereet card](https://github.com/WDL-Team/gereet-card)
-+ Rorschach game [deploy](https://rorschach-game.vercel.app/) (React, SASS, SC, Webpack)
++ [Greet card](https://greet-card.vercel.app/) (React, Particles, SC, Vite)
++ [Rorschach game](https://rorschach-game.vercel.app/) (React, SASS, SC, Webpack)
 + Lived [monorepo](https://github.com/mrHoft/lived) (Next, NextAuth, React)
 + Fast-paws game [early deploy](https://fast-paws.onrender.com/game) (React, express, vite, Docker)
 
