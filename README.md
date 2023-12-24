@@ -25,8 +25,8 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 <table>
  <tr>
-    <th align="center"><img width="420" height="1"><p><small>Commercial</small></p></th>
-    <th align="center"><img width="420" height="1"><p><small>Educational</small></p></th>
+    <th align="center"><img width="380" height="1"><p><small>Commercial</small></p></th>
+    <th align="center"><img width="380" height="1"><p><small>Educational</small></p></th>
  </tr>
  <tr>
    <td>
@@ -50,7 +50,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
     </td>
   </tr>
   <tr>
-    <th align="center" colspan="2"><img width="420" height="1"><p><small>Pet projects</small></p></th>
+    <th align="center" colspan="2"><img width="380" height="1"><p><small>Pet projects</small></p></th>
  </tr>
  <tr>
    <td colspan="2">
