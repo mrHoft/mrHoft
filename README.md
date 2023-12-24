@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a frontend/game developer and C++/Python practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. [My CV](https://mrhoft.github.io/rsschool-cv/).
+I am a frontend/game developer and C++/Python practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/rsschool-cv/).
 
 <div align="right">
 
@@ -25,8 +25,8 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 <table>
  <tr>
-    <th align="center"><img width="380" height="1"><p><small>Commercial</small></p></th>
-    <th align="center"><img width="380" height="1"><p><small>Educational</small></p></th>
+    <th align="center"><img width="395" height="1"><p><small>Commercial</small></p></th>
+    <th align="center"><img width="395" height="1"><p><small>Educational</small></p></th>
  </tr>
  <tr>
    <td>
@@ -34,7 +34,8 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 + [Prozhito project](https://prozhito.org/) (Next, React)
 + [Prozhito profile](https://profile.prozhito.org/) (Next, React)
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, Next, React)
-+ [Lived monorepo](https://github.com/mrHoft/lived) (Next, NextAuth, React)
++ [TESO Addons](https://github.com/TESO-Addons)
++ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental)
 
     </td>
     <td>
@@ -50,7 +51,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
     </td>
   </tr>
   <tr>
-    <th align="center" colspan="2"><img width="380" height="1"><p><small>Pet projects</small></p></th>
+    <th align="center" colspan="2"><img width="395" height="1"><p><small>Pet projects</small></p></th>
  </tr>
  <tr>
    <td colspan="2">
@@ -68,8 +69,4 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 ![](https://github-readme-stats.vercel.app/api?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
--->
-
-<!--
-**mrHoft/mrHoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
