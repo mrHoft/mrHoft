@@ -33,9 +33,10 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 + [Prozhito project](https://prozhito.org/) (Next, React)
 + [Prozhito profile](https://profile.prozhito.org/) (Next, React)
++ [Prozhito help](https://help.prozhito.org/) (Next, React)
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, Next, React)
 + [TESO Addons](https://github.com/TESO-Addons)
-+ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental)
++ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, React, Redux, Storybook)
 
     </td>
     <td>
