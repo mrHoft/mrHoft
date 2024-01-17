@@ -41,13 +41,15 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
     </td>
     <td>
 
-- [Pet chat](https://pet-chat.netlify.app/) (Express, HOC, Websocket)
+- [Pet chat](https://pet-chat.netlify.app/) (TS, Express, HOC, Websocket)
 - [Audio player](https://mrhoft.github.io/RSSchool/audio-player/)
 - [Eco sounds](https://mrhoft.github.io/RSSchool/eco-sounds/)
 - [Brooklin public library](https://mrhoft.github.io/RSSchool/library/)
 - [Movie search](https://mrhoft.github.io/RSSchool/movie-app/)
 - [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/)
 - [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
+- [Coffe house](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/coffee-house/)
+- [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/)
 
     </td>
   </tr>
@@ -59,7 +61,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 + [Greet card](https://greet-card.vercel.app/) (React, Particles, SC, Vite)
 + [Rorschach game](https://rorschach-game.vercel.app/) (React, SASS, SC, Webpack)
-+ Fast-paws game [early deploy](https://fast-paws.onrender.com/game) (React, Express, Vite, Docker)
++ Fast-paws game [early deploy](https://fast-paws.onrender.com/game) (React, Express, Lerna, Vite, Docker)
 
     </td>
   </tr>
