@@ -31,11 +31,10 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  <tr>
    <td>
 
-+ [Prozhito project](https://prozhito.org/) (Next, React)
++ [Prozhito project](https://prozhito.org/) (Turborepo, Next, React)
 + [Prozhito profile](https://profile.prozhito.org/) (Next, React)
 + [Prozhito help](https://help.prozhito.org/) (Next, React)
-+ [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, Next, React)
-+ [TESO Addons](https://github.com/TESO-Addons)
++ [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, React)
 + [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, React, Redux, Storybook)
 
     </td>
@@ -62,6 +61,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 + [Greet card](https://greet-card.vercel.app/) (React, Particles, SC, Vite)
 + [Rorschach game](https://rorschach-game.vercel.app/) (React, SASS, SC, Webpack)
 + Fast-paws game [early deploy](https://fast-paws.onrender.com/game) (React, Express, Lerna, Vite, Docker)
++ [TESO Addons](https://github.com/TESO-Addons)
 
     </td>
   </tr>
