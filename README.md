@@ -49,6 +49,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 - [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
 - [Coffe house](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/coffee-house/)
 - [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/)
+- [Nonograms game](https://mrhoft.github.io/wrenched/)
 
     </td>
   </tr>
