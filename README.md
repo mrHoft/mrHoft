@@ -17,9 +17,24 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 [![stack-image](https://github.com/mrHoft/rsschool-cv/blob/rsschool-cv-html/src/assets/stack.png)](#Tech)
 
-[![Codewars](https://www.codewars.com/users/mrHoft/badges/large)](#Tech)
-
 </div>
+
+### Trophy:
+
+[![Codewars](https://www.codewars.com/users/mrHoft/badges/large)](#Trophy)
+
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/mrHoft/EJAHYCHP?sharingId=F7339DC21FCEC2FD">
+<table>
+  <tr>
+    <td rowspan="2">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/typescript/build-javascript-applications-typescript.svg" width="32">
+    </td>
+  </tr>
+  <tr>
+    <td>TypeScript3 (learn.microsoft.com)</td>
+  </tr>
+</table>
+</a>
 
 ### Projects:
 
