@@ -49,7 +49,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 - [Movie search](https://mrhoft.github.io/RSSchool/movie-app/), [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/) (Work with api)
 - [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
 - [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) (Custom templator, core js)
-- [Nonograms game](https://github.com/mrHoft/wrenched) (Webpack, canvas, core js, MVC)
+- [Nonograms game](https://github.com/mrHoft/wrenched) (Webpack, canvas, core js)
 
     </td>
   </tr>
