@@ -35,9 +35,9 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  <tr>
    <td>
 
-+ [Prozhito project](https://prozhito.org/) (Turborepo, Next, React, private)
-+ [Prozhito profile](https://profile.prozhito.org/), [Prozhito help](https://help.prozhito.org/) (Next, React, CRM-like)
++ [Prozhito project](https://prozhito.org/), [Prozhito profile](https://profile.prozhito.org/), [Prozhito help](https://help.prozhito.org/) (Turborepo, Next, React)
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, React)
++ [@prozhito/utils](https://github.com/prozhito/utils) (Vite, React)
 + [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, React, Redux, Storybook)
 
     </td>
