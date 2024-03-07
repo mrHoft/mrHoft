@@ -51,7 +51,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 - [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
 - [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) (Custom templator, core js)
 - [Nonograms game](https://github.com/mrHoft/wrenched) (Webpack, templator, canvas, core js)
-- [Puzzle](https://github.com/mrHoft/puzzle) (Vite, TS)
+- [Puzzle](https://github.com/mrHoft/puzzle) (Vite, TS, MVC)
 
     </td>
   </tr>
