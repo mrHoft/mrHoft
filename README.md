@@ -1,15 +1,25 @@
 ### Hi there!
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/mrHoft/wrenched/blob/main/public/about04.webp" width="160"/>
+  </td>
+  <td>
 
 I am a frontend/game developer and C++/Python practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/rsschool-cv/).
 
-<div align="right">
+  </td>
+  <td>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  [![](https://visitcount.itsvg.in/api?id=mrHoft&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mrHoft&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.hoft) 
-  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrHoft)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mr.hoft) 
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mrHoft)
 
-</div>
+  </td>
+</tr>
+</table>
 
 ### Tech Stack (frontend):
 
