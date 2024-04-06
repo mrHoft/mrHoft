@@ -2,7 +2,6 @@
 <table>
 <tr>
   <td>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github.com/mrHoft/mrHoft/blob/main/tech_ninja.svg"/>
   </td>
   <td>
@@ -48,7 +47,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  <tr>
    <td>
 
-+ [Prozhito project](https://prozhito.org/), [Prozhito profile](https://profile.prozhito.org/), [Prozhito help](https://help.prozhito.org/) (Turborepo, Next, React)
++ [Prozhito project](https://prozhito.org/), [profile](https://profile.prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React)
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, React)
 + [@prozhito/utils](https://github.com/prozhito/utils) (Vite, React)
 + [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, React, Redux, Storybook)
@@ -65,6 +64,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 - [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) (Custom templator, core js)
 - [Nonograms game](https://github.com/mrHoft/wrenched) (Webpack, templator, canvas, core js)
 - [Puzzle](https://github.com/mrHoft/puzzle) (Vite, TS, MVC)
+- [Async-race](https://github.com/mrHoft/RSSchool/tree/main/packages/async-race) (Vite, TS, MVC, FSD)
 
     </td>
   </tr>
