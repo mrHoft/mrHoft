@@ -64,7 +64,8 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 - [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) (Custom templator, core js)
 - [Nonograms game](https://github.com/mrHoft/wrenched) (Webpack, templator, canvas, core js)
 - [Puzzle](https://github.com/mrHoft/puzzle) (Vite, TS, MVC)
-- [Async-race](https://github.com/mrHoft/RSSchool/tree/main/packages/async-race) (Vite, TS, MVC, FSD)
+- [Async race](https://github.com/mrHoft/RSSchool/tree/main/packages/async-race) (Vite, TS, MVC, FSD)
+- [Fun chat](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/fun-chat/) (Vite, TS, MVC, custom parser)
 
     </td>
   </tr>
