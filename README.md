@@ -55,7 +55,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
     </td>
     <td>
 
-- [Pet chat](https://pet-chat.netlify.app/) (TS, Express, HOC, Websocket)
+- [Pet chat](https://pet-chat.netlify.app/) (Parcel, TS, Express, Reactive components, Websocket)
 - [Brooklin public library](https://mrhoft.github.io/RSSchool/library/), [Coffe house](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/coffee-house/) (Layout from figma project)
 - [Movie search](https://mrhoft.github.io/RSSchool/movie-app/), [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/) (Work with api)
 - [Audio player](https://mrhoft.github.io/RSSchool/audio-player/), [Eco sounds](https://mrhoft.github.io/RSSchool/eco-sounds/) (Audio web api)
