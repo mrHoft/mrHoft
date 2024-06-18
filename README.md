@@ -47,18 +47,18 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  <tr>
    <td>
 
-+ [Prozhito project](https://prozhito.org/), [profile](https://profile.prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React)
++ [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, ⚛️React)
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, ⚛️React)
 + [@prozhito/utils](https://github.com/prozhito/utils) (Vite, ⚛️React)
 + [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, ⚛️React, Redux, Storybook)
 
     </td>
     <td>
-🏆 [Nonograms game](https://github.com/mrHoft/wrenched) (Webpack, templator, canvas, core js)
+🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, templator, canvas, core js)
 
-🌟 [Magic seeds](https://magic-seeds.netlify.app/) (Vite, ⚛️React, Mobx)
+🌟 [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, ⚛️React, Mobx)
 
-🌟 [Puzzle](https://github.com/mrHoft/puzzle) (Vite, TS, MVC)
+🌟 [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
 
 🌟 [Fun chat](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/fun-chat/) (Vite, TS, MVC, custom parser)
 
@@ -74,7 +74,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 😄 [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
 
-🎮 [Hangman game](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) (Custom templator, core js)
+🎮 [Hangman](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) game (Custom templator, core js)
 
 🚗 [Async race](https://github.com/mrHoft/RSSchool/tree/main/packages/async-race) (Vite, TS, MVC, FSD)
     </td>
@@ -84,6 +84,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  </tr>
  <tr>
    <td colspan="2">
+
 🎁 [Greet card](https://greet-card.vercel.app/) (⚛️React, Particles, SC, Vite)
 
 🎮 [Rorschach game](https://rorschach-game.vercel.app/) (⚛️React, SASS, SC, Webpack)
