@@ -85,11 +85,11 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  <tr>
    <td colspan="2">
 
-🎁 [Greet card](https://greet-card.vercel.app/) (⚛️React, Particles, SC, Vite)
+🎁 [Greet card](https://greet-card.vercel.app/) service (⚛️React, Particles, SC, Vite)
 
-🎮 [Rorschach game](https://rorschach-game.vercel.app/) (⚛️React, SASS, SC, Webpack)
+🎮 [Rorschach](https://rorschach-game.vercel.app/) game (⚛️React, SASS, SC, Webpack)
 
-🎮 [Fast-paws game](https://fast-paws.onrender.com/game) (⚛️React, Express, Lerna, Vite, Docker, Nginx)
+🎮 [Fast-paws](https://fast-paws.onrender.com/game) game (⚛️React, Express, Lerna, Vite, Docker, Nginx)
 
 🎮 [TESO Addons](https://github.com/TESO-Addons) (in delay)
     </td>
