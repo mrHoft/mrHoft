@@ -50,6 +50,7 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 + [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, ⚛️React)
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, ⚛️React)
 + [@prozhito/utils](https://github.com/prozhito/utils) (Vite, ⚛️React)
++ [Cavex](https://github.com/Cavex-dev) (express, postgres, Vite, ⚛️React)
 + [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, ⚛️React, Redux, Storybook)
 
     </td>
