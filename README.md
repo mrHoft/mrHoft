@@ -48,11 +48,11 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
  <tr>
    <td>
 
-+ [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, ⚛️React)
-+ [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, ⚛️React)
-+ [@prozhito/utils](https://github.com/prozhito/utils) (Vite, ⚛️React)
-+ [Cavex](https://github.com/Cavex-dev) (Express, Postgres, Vite, ⚛️React)
-+ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, ⚛️React, Redux, Storybook)
++ [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, ⚛️React). Global historical documents archive database.
++ [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, ⚛️React).
++ [@prozhito/utils](https://github.com/prozhito/utils) (Vite, ⚛️React).
++ [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, ⚛️React, aws). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
++ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, ⚛️React, Redux, Storybook).
 
     </td>
     <td>
