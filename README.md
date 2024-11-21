@@ -56,9 +56,9 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
     </td>
     <td>
-🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, templator, canvas, core js)
+🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
 
-🌟 [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, ⚛️React, Mobx)
+🌟 [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, ⚛️React, Mobx, custom components, commercetools)
 
 🌟 [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
 
