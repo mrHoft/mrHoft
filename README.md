@@ -68,11 +68,11 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 
 🛒 [Coffe house](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/coffee-house/), [Brooklin public library](https://mrhoft.github.io/RSSchool/library/) (Layout from figma project)
 
-🔍 [Movie search](https://mrhoft.github.io/RSSchool/movie-app/), [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/) (Work with api)
+🔍 [Movie search](https://mrhoft.github.io/RSSchool/movie-app/), [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/) (REST api)
 
 🔊 [Audio player](https://mrhoft.github.io/RSSchool/audio-player/), [Eco sounds](https://mrhoft.github.io/RSSchool/eco-sounds/) (Audio web api)
 
-📄 [World news](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/news-api/) (Webpack, TS, MVC)
+📄 [World news](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/news-api/) (Webpack, TS, MVC, REST api)
 
 😄 [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
 
