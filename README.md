@@ -41,51 +41,25 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 ### Projects:
 
 <table>
- <tr>
-    <th align="center"><img width="395" height="1"><p><small>Commercial</small></p></th>
-    <th align="center"><img width="395" height="1"><p><small>Educational</small></p></th>
+  <tr>
+    <th align="center" colspan="2"><img width="395" height="1"><p><small>Commercial</small></p></th>
  </tr>
  <tr>
-   <td>
+   <td colspan="2">
 
 + [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, ⚛️React). Global historical documents archive database.
 + [@prozhito/lib](https://github.com/prozhito/lib) (Rollup, ⚛️React).
 + [@prozhito/utils](https://github.com/prozhito/utils) (Vite, ⚛️React).
 + [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, ⚛️React, aws). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
 + [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, ⚛️React, Redux, Storybook).
-
-    </td>
-    <td>
-🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
-
-🌟 [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, ⚛️React, Mobx, custom components, commercetools)
-
-🌟 [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
-
-🌟 [Fun chat](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/fun-chat/) (Vite, TS, MVC, custom parser)
-
-💬 [Pet chat](https://pet-chat.netlify.app/) (Parcel, TS, Express, Reactive components, Websocket)
-
-🛒 [Coffe house](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/coffee-house/), [Brooklin public library](https://mrhoft.github.io/RSSchool/library/) (Layout from figma project)
-
-🔍 [Movie search](https://mrhoft.github.io/RSSchool/movie-app/), [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/) (REST api)
-
-🔊 [Audio player](https://mrhoft.github.io/RSSchool/audio-player/), [Eco sounds](https://mrhoft.github.io/RSSchool/eco-sounds/) (Audio web api)
-
-📄 [World news](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/news-api/) (Webpack, TS, MVC, REST api)
-
-😄 [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (Slider without js)
-
-🎮 [Hangman](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) game (Custom templator, core js)
-
-🚗 [Async race](https://github.com/mrHoft/RSSchool/tree/main/packages/async-race) (Vite, TS, MVC, FSD)
-    </td>
+   </td>
   </tr>
-  <tr>
-    <th align="center" colspan="2"><img width="395" height="1"><p><small>Pet projects</small></p></th>
+ <tr>
+    <th align="center"><img width="395" height="1"><p><small>Pet projects</small></p></th>
+    <th align="center"><img width="395" height="1"><p><small>Educational</small></p></th>
  </tr>
  <tr>
-   <td colspan="2">
+   <td>
 
 🎁 [Greet card](https://greet-card.vercel.app/) service (⚛️React, Particles, SC, Vite)
 
@@ -94,6 +68,31 @@ I am a frontend/game developer and C++/Python practitioner with over 5 years of 
 🎮 [Fast-paws](https://fast-paws.onrender.com/game) game (⚛️React, Express, Lerna, Vite, Docker, Nginx)
 
 🎮 [TESO Addons](https://github.com/TESO-Addons) (in delay)
+    </td>
+    <td>
+🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
+
+🌟 [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, ⚛️React, Mobx, custom components, commercetools)
+
+🌟 [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
+
+🌟 [Fun chat](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/fun-chat/) with chat bot (Vite, TS, MVC, event emitter, custom parser)
+
+💬 [Pet chat](https://pet-chat.netlify.app/) (Parcel, TS, Express, Websocket, custom reactive components)
+
+🛒 [Coffe house](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/coffee-house/), [Brooklin public library](https://mrhoft.github.io/RSSchool/library/) (layout from figma project)
+
+🔍 [Movie search](https://mrhoft.github.io/RSSchool/movie-app/), [Image gallery](https://mrhoft.github.io/RSSchool/image-gallery/) (REST api)
+
+🔊 [Audio player](https://mrhoft.github.io/RSSchool/audio-player/), [Eco sounds](https://mrhoft.github.io/RSSchool/eco-sounds/) (audio web api)
+
+📄 [World news](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/news-api/) (Webpack, TS, MVC, REST api)
+
+😄 [Meme slider](https://mrhoft.github.io/RSSchool/cssMemeSlider/) (slider without js)
+
+🎮 [Hangman](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/hangman/) game (custom templator, core js)
+
+🚗 [Async race](https://github.com/mrHoft/RSSchool/tree/main/packages/async-race) (Vite, TS, MVC, FSD)
     </td>
   </tr>
 </table>
