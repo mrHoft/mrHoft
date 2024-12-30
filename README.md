@@ -6,7 +6,7 @@
   </td>
   <td>
 
-I am a frontend/game developer and C++/Python practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/rsschool-cv/).
+I am a frontend/game developer and JS/TS practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/cv/).
 
   </td>
   <td>
