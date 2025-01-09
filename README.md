@@ -27,7 +27,7 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
 
 <div align="center">
 
-[![stack-image](https://github.com/mrHoft/rsschool-cv/blob/rsschool-cv-html/src/assets/stack.png)](#Tech)
+[![stack-image](https://github.com/mrHoft/cv/blob/main/stack.png)](#Tech)
 
 </div>
 
