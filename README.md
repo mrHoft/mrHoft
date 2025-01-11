@@ -60,6 +60,8 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
  <tr>
    <td>
 
+📄 [Monkey Wrench characters](https://mwc-eta.vercel.app/) (Vue, Nuxt)
+
 🎁 [Greet card](https://greet-card.vercel.app/) service (⚛️React, Particles, SC, Vite)
 
 🎮 [Rorschach](https://rorschach-game.vercel.app/) game (⚛️React, SASS, SC, Webpack)
