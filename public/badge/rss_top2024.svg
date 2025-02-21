@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158.5" height="20">
+  <title>Top 1 student</title>
+  <defs>
+    <linearGradient id="s" x2="0" y2="100%">
+      <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="158.5" height="20" rx="3" fill="#fff"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="124.5" height="20" fill="#333"/>
+    <rect x="124.5" width="34" height="20" fill="#007ec6"/>
+    <rect width="158.5" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Arial,Geneva,sans-serif" text-rendering="geometricPrecision" font-size="110" transform="scale(.1)">
+    <text x="722.5" y="150" fill="#000" fill-opacity=".3">Top 1 student</text>
+    <text x="722.5" y="140" fill="#fff">Top 1 student</text>
+    <text x="1415" y="140" fill="#fff">2024</text>
+  </g>
+  <svg xmlns="http://www.w3.org/2000/svg" x="2" y="2" width="16" height="16" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="29" fill="#ff0"/>
+    <text text-anchor="middle" font-size="32" font-family="sans-serif" font-weight="600" x="30" y="42" fill="#000">RS</text>
+  </svg>
+</svg>
