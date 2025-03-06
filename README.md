@@ -32,10 +32,10 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
  <tr>
    <td colspan="2">
 
-+ [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, ⚛️React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
-+ [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, ⚛️React). Global historical documents archive database.
-+ [@prozhito/utils](https://github.com/prozhito/utils) (Vite, ⚛️React).
-+ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, ⚛️React, Redux, Storybook).
++ [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
++ [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React). Global historical documents archive database.
++ [@prozhito/utils](https://github.com/prozhito/utils) (Vite, React).
++ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, React, Redux, Storybook).
    </td>
   </tr>
  <tr>
@@ -45,28 +45,30 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
  <tr>
    <td>
 
-🅱️ [Badge service](https://github.com/daytec-org/badge) (Deno, Oak)
+🔆 [Badge service](https://github.com/daytec-org/badge) (Deno, Oak)
 
 📈 [Visit counter](https://github.com/mrHoft/visit-counter) (Deno, Express, Postgress)
 
-📄 [Monkey Wrench characters](https://mwc-eta.vercel.app/) (Vue, Nuxt)
+🎁 [Greet card](https://greet-card.vercel.app/) service (React, Particles, SC, Vite)
 
-🎁 [Greet card](https://greet-card.vercel.app/) service (⚛️React, Particles, SC, Vite)
+🎮 [Rorschach](https://rorschach-game.vercel.app/) game (React, SASS, SC, Webpack)
 
-🎮 [Rorschach](https://rorschach-game.vercel.app/) game (⚛️React, SASS, SC, Webpack)
-
-🎮 [Fast-paws](https://fast-paws.onrender.com/game) game (⚛️React, Express, Lerna, Vite, Docker, Nginx)
+🐾 [Fast-paws](https://fast-paws.onrender.com/game) game (React, Express, Lerna, Vite, Docker, Nginx)
 
 🎮 [TESO Addons](https://github.com/TESO-Addons) (in delay)
     </td>
     <td>
 🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
 
-🌟 [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, ⚛️React, Mobx, custom components, commercetools)
+🐸 [Monkey Wrench characters](http://195.133.52.167:3081/) (TS, React, SSR, ORM)
 
-🌟 [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
+🐸 [Monkey Wrench characters](https://mwc-eta.vercel.app/) (TS, Vue, Nuxt)
 
-🌟 [Fun chat](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/fun-chat/) with chat bot (Vite, TS, MVC, event emitter, custom parser)
+⭐ [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, React, Mobx, custom components, commercetools)
+
+⭐ [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
+
+💬 [Fun chat](https://rolling-scopes-school.github.io/mrhoft-JSFE2023Q4/fun-chat/) with chat bot (Vite, TS, MVC, event emitter, custom parser)
 
 💬 [Pet chat](https://pet-chat.netlify.app/) (Parcel, TS, Express, Websocket, custom reactive components)
 
