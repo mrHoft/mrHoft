@@ -64,6 +64,8 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
 
 🐸 [Monkey Wrench characters](https://mwc-eta.vercel.app/) (TS, Vue, Nuxt)
 
+📝 [Froms](https://rs-react-forms.deno.dev/) (TS, React, Router, Redux, Yup, RHF)
+
 ⭐ [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, React, Mobx, custom components, commercetools)
 
 ⭐ [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
