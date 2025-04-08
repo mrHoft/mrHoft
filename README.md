@@ -45,6 +45,8 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
  <tr>
    <td>
 
+🎮 [Medley world](https://medley.deno.dev) game (Pixi, Spine)
+
 🔆 [Badge service](https://github.com/daytec-org/badge) (Deno, Oak)
 
 📈 [Visit counter](https://github.com/mrHoft/visit-counter) (Deno, Express, Postgress)
