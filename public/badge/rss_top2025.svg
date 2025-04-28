@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="20">
+  <title>Top 10</title>
+  <defs>
+    <linearGradient id="s" x2="0" y2="100%">
+      <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="117" height="20" rx="3" fill="#fff"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="83" height="20" fill="#333"/>
+    <rect x="83" width="34" height="20" fill="#007ec6"/>
+    <rect width="117" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Arial,Geneva,sans-serif" text-rendering="geometricPrecision" font-size="110" transform="scale(.1)">
+    <text x="500" y="150" fill="#000" fill-opacity=".3">Top 10</text>
+    <text x="500" y="140" fill="#fff">Top 10</text>
+    <text x="1000" y="140" fill="#fff">2025</text>
+  </g>
+  <circle cx="10" cy="10" r="8" fill="#ff0"/>
+  <text fill="#000" text-anchor="middle" font-family="sans-serif" font-weight="600" x="100" y="140" font-size="100" transform="scale(.1)">RS</text>
+</svg>
