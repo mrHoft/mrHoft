@@ -22,6 +22,7 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
 [![outstanding1](https://github.com/mrHoft/mrHoft/blob/main/public/badge/outstanding1.svg)](https://mrhoft.github.io/wrenched/)
 [![RSS2024](https://github.com/mrHoft/mrHoft/blob/main/public/badge/rss_top2024.svg)](https://app.rs.school/certificate/nehax0ao)
 [![Codewars](https://www.codewars.com/users/mrHoft/badges/micro)](https://www.codewars.com/users/mrHoft)
+[![RSS2025](https://github.com/mrHoft/mrHoft/blob/main/public/badge/rss_top2025.svg)](https://app.rs.school/certificate/m2svb7rr)
 
 ### Projects:
 
@@ -44,6 +45,7 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
  </tr>
  <tr>
    <td>
+🖧 [Restman](https://github.com/daytec-org/restman) (Next)
 
 🎮 [Medley world](https://medley.deno.dev) game (Pixi, Spine)
 
@@ -61,8 +63,6 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
     </td>
     <td>
 🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
-
-🖧 [Restman](restman-daytec.vercel.app) (Next)
 
 🐸 [Monkey Wrench characters](http://195.133.52.167:3081/) (TS, React, SSR, ORM)
 
