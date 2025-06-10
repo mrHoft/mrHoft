@@ -66,6 +66,8 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
     <td>
 🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
 
+📚 [Home library](https://github.com/mrHoft/nodejs2025Q2-service) (Nest, TypeORM, Postgres, Docker)
+
 🎮 [Battleship](https://github.com/mrHoft/nodejs-battleship) WebSocket server (Node, TS, ws)
 
 🐸 [Monkey Wrench characters](http://195.133.52.167:3081/) (TS, React, SSR, ORM)
