@@ -10,8 +10,9 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
 
 <div align="center">
 
+<!--https://badge-service.deno.dev/stack/?title=HTML5&value=90&icon=html;title=CSS,SCSS,CSSinJS&value=90&icon=css;title=JavaScript,TypeScript&value=80&icon=js;title=Node,Deno,Nest&value=75&icon=node;title=React,Redux,Next&value=90&icon=react;title=Vue3,Vuex,Nuxt&value=65&icon=vue;title=Pixi.js,Spine.js&value=75&icon=game-->
 [![stack1](https://github.com/mrHoft/mrHoft/blob/main/public/stack1.svg)](#Tech)
-
+<!--https://badge-service.deno.dev/stack/?title=Webpack,Rollup,Vite&value=80&icon=webpack;title=Jest,Vitest&value=75&icon=test;title=Postgres,TypeORM,Strapi&value=75&icon=sql;title=Docker&value=75&icon=docker;title=Linux,Nginx&value=80&icon=linux;title=aws&value=50&icon=cloud;title=completion,generate&value=90&icon=ai-->
 [![stack2](https://github.com/mrHoft/mrHoft/blob/main/public/stack2.svg)](#Tech)
 
 </div>
@@ -53,7 +54,7 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
 
 📈 [Visit counter](https://github.com/mrHoft/visit-counter) (Deno, Express, Postgress)
 
-🖧 [Restman](https://github.com/daytec-org/restman) (Next)
+🖧 [Restman](https://github.com/daytec-org/restman) (React, Next)
 
 🎁 [Greet card](https://greet-card.vercel.app/) service (React, Particles, SC, Vite)
 
@@ -78,7 +79,7 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
 
 📝 [Froms](https://rs-react-forms.deno.dev/) (TS, React, Router, Redux, Yup, RHF)
 
-⭐ [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, React, Mobx, custom components, commercetools)
+⭐ [Magic seeds](https://magic-seeds.netlify.app/) online shop (Vite, React, Mobx, commercetools)
 
 ⭐ [Puzzle](https://github.com/mrHoft/puzzle) educational game (Vite, TS, MVC)
 
