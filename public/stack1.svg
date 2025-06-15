@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="704" height="128" viewBox="0 0 704 128" fill="none"><svg xmlns="http://www.w3.org/2000/svg" x="0" width="92" height="88" viewBox="0 0 92 88" fill="none">
   <style>
-.chart_11 {
+.chart_f {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_11 1s forwards 703ms ease-in-out;
+  animation: chart-animation_f 1s forwards 368ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_11 {
+@keyframes chart-animation_f {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -21,24 +21,24 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_11" r="28" cx="46" cy="32"/>
+  <circle class="chart_f" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 256 256" fill="#fff">
   <path d="M23,10l18,212l85,23l85-23l19-212H23z M190,79L190,79H91l2,26h95l-7,80L128,200l0,0h0h0l-53-14l-3-40H97l1,20l29,7l0,0l29-7l3-33H69l-7-78h130L190,79z"/>
 </svg>
   <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">HTML5</text></g>
 </svg><svg xmlns="http://www.w3.org/2000/svg" x="102" width="92" height="128" viewBox="0 0 92 128" fill="none">
   <style>
-.chart_12 {
+.chart_10 {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_12 1s forwards 193ms ease-in-out;
+  animation: chart-animation_10 1s forwards 216ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_12 {
+@keyframes chart-animation_10 {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -49,24 +49,24 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_12" r="28" cx="46" cy="32"/>
+  <circle class="chart_10" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 256 256" fill="#fff">
   <path d="M232,10l-19,213L128,246l-85-23L23,10H232z M193,53h-65H61L64,79h63h3l-3,1l-61,25l2,25l59,0l31,0l-2,33l-29,8v0l-0,0L99,166l-1-20h-0H70h-0l3,40l53,15v0l0,0l53-15l6-79h-60h-0l0-0L190,79L193,53z"/>
 </svg>
   <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">CSS</text><text x="46" y="104">SCSS</text><text x="46" y="124">CSSinJS</text></g>
 </svg><svg xmlns="http://www.w3.org/2000/svg" x="204" width="92" height="108" viewBox="0 0 92 108" fill="none">
   <style>
-.chart_13 {
+.chart_11 {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_13 1s forwards 389ms ease-in-out;
+  animation: chart-animation_11 1s forwards 550ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_13 {
+@keyframes chart-animation_11 {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -77,7 +77,7 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_13" r="28" cx="46" cy="32"/>
+  <circle class="chart_11" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 64 64">
 <rect x="3" y="3" width="58" height="58" rx="3" fill="#fff"/>
 <text text-anchor="middle" font-size="34" font-family="sans-serif" font-weight="600" x="36" y="56" fill="#000">JS</text>
@@ -85,17 +85,17 @@
   <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">JavaScript</text><text x="46" y="104">TypeScript</text></g>
 </svg><svg xmlns="http://www.w3.org/2000/svg" x="306" width="92" height="128" viewBox="0 0 92 128" fill="none">
   <style>
-.chart_14 {
+.chart_12 {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_14 1s forwards 927ms ease-in-out;
+  animation: chart-animation_12 1s forwards 350ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_14 {
+@keyframes chart-animation_12 {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -106,7 +106,7 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_14" r="28" cx="46" cy="32"/>
+  <circle class="chart_12" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 48 48" fill="#fff">
   <path d="M42.3,11.8,25.7,2.4a4,4,0,0,0-3.4,0L5.7,11.8A3.4,3.4,0,0,0,4,14.7V33.3a3.4,3.4,0,0,0,1.7,2.9l4.4,2.5a7.2,7.2,0,0,0,3.8,1c3.1,0,4.9-1.9,4.9-5.1V16.3a.5.5,0,0,0-.5-.5H16.2a.5.5,0,0,0-.5.5V34.6c0,1.5-1.5,2.9-3.9,1.7L7.2,33.7a.5.5,0,0,1-.2-.4V14.7a.8.8,0,0,1,.2-.5L23.7,4.9h.6l16.5,9.3a.8.8,0,0,1,.2.5V33.3a.5.5,0,0,1-.2.4L24.3,43a.6.6,0,0,1-.6,0l-4.2-2.4a.3.3,0,0,0-.4,0l-2.5,1.1c-.3.1-.7.2.1.7l5.6,3.1a3.1,3.1,0,0,0,3.4,0l16.6-9.3A3.4,3.4,0,0,0,44,33.3V14.7A3.4,3.4,0,0,0,42.3,11.8Z"/>
   <path d="M29.1,30.3c-4.4,0-5.3-1-5.7-3.1a.4.4,0,0,0-.4-.4H20.8a.4.4,0,0,0-.4.4c0,2.7,1.5,6,8.7,6,5.2,0,8.2-2,8.2-5.5s-2.4-4.5-7.5-5.1-5.6-1-5.6-2.2.4-2.2,4.2-2.2,4.7.7,5.2,2.9a.5.5,0,0,0,.5.4h2.1l.4-.2a.4.4,0,0,0,.1-.3c-.3-3.9-3-5.7-8.3-5.7s-7.5,2-7.5,5.2,2.8,4.5,7.3,5,5.9,1.2,5.9,2.3S32.6,30.3,29.1,30.3Z"/>
@@ -114,17 +114,17 @@
   <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">Node</text><text x="46" y="104">Deno</text><text x="46" y="124">Nest</text></g>
 </svg><svg xmlns="http://www.w3.org/2000/svg" x="408" width="92" height="128" viewBox="0 0 92 128" fill="none">
   <style>
-.chart_15 {
+.chart_13 {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_15 1s forwards 592ms ease-in-out;
+  animation: chart-animation_13 1s forwards 137ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_15 {
+@keyframes chart-animation_13 {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -135,7 +135,7 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_15" r="28" cx="46" cy="32"/>
+  <circle class="chart_13" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 256 256" fill="none" stroke="#fff" stroke-width="10">
   <path fill="#fff" d="M108,127c0,10,8,19,19,19c10,0,19-8,19-19c0-10-8-19-19-19C116,108,108,116,108,127L108,127z"/>
   <path d="M127,87c26,0,51,3,69,10c22,7,36,19,36,29c0,11-14,23-38,31c-18,6-42,9-67,9c-25,0-50-2-68-9C36,151,22,138,22,127c0-10,13-22,35-29C75,91,101,87,127,87z"/>
@@ -145,17 +145,17 @@
   <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">React</text><text x="46" y="104">Redux</text><text x="46" y="124">Next</text></g>
 </svg><svg xmlns="http://www.w3.org/2000/svg" x="510" width="92" height="128" viewBox="0 0 92 128" fill="none">
   <style>
-.chart_16 {
+.chart_14 {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_16 1s forwards 477ms ease-in-out;
+  animation: chart-animation_14 1s forwards 958ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_16 {
+@keyframes chart-animation_14 {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -166,25 +166,25 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_16" r="28" cx="46" cy="32"/>
+  <circle class="chart_14" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 261.76 226.69">
 <path d="M161.096.001l-30.225 52.351L100.647.001H-.005l130.877 226.688L261.749.001z" fill="#fff"/>
 <path d="M161.096.001l-30.225 52.351L100.647.001H52.346l78.526 136.01L209.398.001z" fill="#888"/>
 </svg>
   <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">Vue3</text><text x="46" y="104">Vuex</text><text x="46" y="124">Nuxt</text></g>
-</svg><svg xmlns="http://www.w3.org/2000/svg" x="612" width="92" height="108" viewBox="0 0 92 108" fill="none">
+</svg><svg xmlns="http://www.w3.org/2000/svg" x="612" width="92" height="128" viewBox="0 0 92 128" fill="none">
   <style>
-.chart_17 {
+.chart_15 {
   stroke: #007ec6;
   stroke-dasharray: 175.93;
   stroke-dashoffset: 175.93;
   fill: none;
   stroke-width: 8;
-  animation: chart-animation_17 1s forwards 788ms ease-in-out;
+  animation: chart-animation_15 1s forwards 43ms ease-in-out;
   transform: rotate(-90deg);
   transform-origin: 46px 32px;
 }
-@keyframes chart-animation_17 {
+@keyframes chart-animation_15 {
   from {
     stroke-dashoffset: 175.93;
   }
@@ -195,9 +195,9 @@
   </style>
   <circle r="28" cx="46" cy="32" fill="#333"/>
   <circle r="28" cx="46" cy="32" stroke-width="8" stroke="#555"/>
-  <circle class="chart_17" r="28" cx="46" cy="32"/>
+  <circle class="chart_15" r="28" cx="46" cy="32"/>
   <svg xmlns="http://www.w3.org/2000/svg" x="23" y="16" width="46" height="32" viewBox="0 0 32 32" fill="#fff">
   <path d="m23.32,25.68c3,3.11,8.45.27,7.6-3.97,0,0-2.05-10.56-2.05-10.56-.65-3.56-3.75-6.15-7.38-6.16h-11.01c-3.63,0-6.74,2.61-7.37,6.19l-2.05,10.51s0,.01,0,.02c-.82,4.24,4.61,7.06,7.61,3.96,0,0,5-5.68,5-5.68h4.62l5.01,5.68Zm-10.42-11.48h-1.2v1.2c0,.66-.54,1.2-1.2,1.2s-1.2-.54-1.2-1.2v-1.2h-1.2c-.66,0-1.2-.54-1.2-1.2s.54-1.2,1.2-1.2h1.2v-1.2c0-.66.54-1.2,1.2-1.2s1.2.54,1.2,1.2v1.2h1.2c1.57,0,1.57,2.39,0,2.4Zm10.9,0h-3.6c-.66,0-1.2-.54-1.2-1.2s.54-1.2,1.2-1.2h3.6c1.57,0,1.57,2.39,0,2.4Z"/>
 </svg>
-  <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">Pixi.js</text><text x="46" y="104">Spine.js</text></g>
+  <g font-family="Verdana,Arial,Geneva,sans-serif" font-size="16px" fill="#888" text-anchor="middle"><text x="46" y="84">Thee.js</text><text x="46" y="104">Pixi.js</text><text x="46" y="124">Spine.js</text></g>
 </svg></svg>
