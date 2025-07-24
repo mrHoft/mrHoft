@@ -1,12 +1,12 @@
 ### Hi there!
 <!--<img src="https://github.com/mrHoft/mrHoft/blob/main/tech_ninja.svg"/>-->
-I am a frontend/game developer and JS/TS practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/cv/).
+I am a fullstack/game developer and JS/TS practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/cv/).
 
 [![telegram](https://github.com/mrHoft/mrHoft/blob/main/public/badge/telegram.svg)](https://t.me/mrHoft)
 [![discord](https://github.com/mrHoft/mrHoft/blob/main/public/badge/discord.svg)](https://discord.gg/mr.hoft)
 [![counter](https://counter.daytec.ru/mrHoft/?title=Visits)](https://github.com/mrHoft/visit-counter)
 
-### Tech Stack (frontend):
+### Tech Stack:
 
 <div align="center">
 
@@ -46,23 +46,19 @@ I am a frontend/game developer and JS/TS practitioner with over 5 years of exper
  </tr>
  <tr>
    <td>
+🎮 [Medley world](https://medley.deno.dev) game (Vite, Pixi, Spine)
 
+🔆 [Badge service](https://github.com/daytec-org/badge) (Deno, Oak, React)
 
-🎮 [Medley world](https://medley.deno.dev) game (Pixi, Spine)
-
-🔆 [Badge service](https://github.com/daytec-org/badge) (Deno, Oak)
-
-📈 [Visit counter](https://github.com/mrHoft/visit-counter) (Deno, Express, Postgress)
+📈 [Visit counter](https://github.com/mrHoft/visit-counter) (Deno, Express, Postgress, React)
 
 🖧 [Restman](https://github.com/daytec-org/restman) (React, Next)
 
-🎁 [Greet card](https://greet-card.vercel.app/) service (React, Particles, SC, Vite)
+🎁 [Greet card](https://greet-card.vercel.app/) service (Vite, React, Particles, SC)
 
-🎮 [Rorschach](https://rorschach-game.vercel.app/) game (React, SASS, SC, Webpack)
+🎮 [Rorschach](https://rorschach-game.vercel.app/) game (Webpack, React, SASS, SC)
 
-🐾 [Fast-paws](https://fast-paws.onrender.com/game) game (React, Express, Lerna, Vite, Docker, Nginx)
-
-🎮 [TESO Addons](https://github.com/TESO-Addons) (in delay)
+🐾 [Fast-paws](https://fast-paws.onrender.com/game) game (Lerna, Vite, React, Express, Docker)
     </td>
     <td>
 🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
