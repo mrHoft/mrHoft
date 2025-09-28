@@ -46,6 +46,9 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  </tr>
  <tr>
    <td>
+
+🧪[Genesis lab](https://genesis-lab.deno.dev/) (Deno, Angular)
+
 🎮 [Medley world](https://medley.deno.dev) game (Vite, Pixi, Spine)
 
 🔆 [Badge service](https://github.com/daytec-org/badge) (Deno, Oak, React)
@@ -62,6 +65,8 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
     </td>
     <td>
 🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
+
+🏠︎ [smart-home](https://github.com/mrHoft/smart-home) (Angular, NgRx)
 
 📚 [Home library](https://github.com/mrHoft/nodejs2025Q2-service) (Nest, TypeORM, Postgres, Docker)
 
