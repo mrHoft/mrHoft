@@ -34,10 +34,11 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  <tr>
    <td colspan="2">
 
-+ [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
-+ [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React). Global historical documents archive database.
-+ [@prozhito/utils](https://github.com/prozhito/utils) (Vite, React).
-+ [Agricultural machinery rental](https://github.com/agricultural-machinery-rental) (Next, React, Redux, Storybook).
+📈 [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
+
+📚 [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React). Global historical documents archive database.
+
+🐾 [Nimble Paws](https://yandex.ru/games/app/477305) game (Vite, Core JS, Canvas).
    </td>
   </tr>
  <tr>
@@ -47,7 +48,7 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  <tr>
    <td>
 
-🧪[Genesis lab](https://genesis-lab.deno.dev/) (Deno, Angular)
+🧪 [Genesis lab](https://genesis-lab.deno.dev/) (Deno, Angular)
 
 🎮 [Medley world](https://medley.deno.dev) game (Vite, Pixi, Spine)
 
@@ -60,8 +61,6 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
 🎁 [Greet card](https://greet-card.vercel.app/) service (Vite, React, Particles, SC)
 
 🎮 [Rorschach](https://rorschach-game.vercel.app/) game (Webpack, React, SASS, SC)
-
-🐾 [Fast-paws](https://fast-paws.onrender.com/game) game (Lerna, Vite, React, Express, Docker)
     </td>
     <td>
 🏆 [Nonograms](https://github.com/mrHoft/wrenched) game (Webpack, custom templator, canvas, core js)
@@ -104,10 +103,3 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
     </td>
   </tr>
 </table>
-
-<!--
-### GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
--->
