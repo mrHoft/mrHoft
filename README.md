@@ -1,9 +1,7 @@
 ### Hi there!
 <!--<img src="https://github.com/mrHoft/mrHoft/blob/main/tech_ninja.svg"/>-->
-I am a fullstack/game developer and JS/TS practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects. ✨[My CV](https://mrhoft.github.io/cv/).
+I am a fullstack/game developer and JS/TS practitioner with over 5 years of experience from the black sea region. When not secretly being an evil tech ninja, enjoys working on DIY projects.
 
-[![telegram](https://github.com/mrHoft/mrHoft/blob/main/public/badge/telegram.svg)](https://t.me/mrHoft)
-[![discord](https://github.com/mrHoft/mrHoft/blob/main/public/badge/discord.svg)](https://discord.gg/mr.hoft)
 [![counter](https://counter.daytec.ru/mrHoft/?title=Visits)](https://github.com/mrHoft/visit-counter)
 
 ### Tech Stack:
