@@ -32,7 +32,9 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  <tr>
    <td colspan="2">
 
-📈 [Cavex](https://app.nobey.ru/) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
+🏠︎ [realt23](https://realt23.ru/) (Angular, Tailwind, Nest, TypeORM, Postgres, S3). Crossplatform real estate CRM.
+
+📈 Cavex(private app) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
 
 📚 [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React). Global historical documents archive database.
 
