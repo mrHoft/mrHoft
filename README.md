@@ -36,7 +36,7 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
 
 🏠︎ [realt23](https://mrhoft.github.io/realt23/) (Angular, Tailwind). Crossplatform real estate CRM demo.
 
-📈 Cavex(private app) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
+📈 Cavex (private app) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
 
 📚 [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React). Global historical documents archive database.
 
@@ -49,6 +49,8 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  </tr>
  <tr>
    <td>
+
+💳 [Ether Wallet](https://github.com/mrHoft/etherwallet) (Vite, Vue, ethers)
 
 🧪 [Genesis lab](https://genesis-lab.deno.dev/) (Deno, Angular)
 
