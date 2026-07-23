@@ -34,13 +34,13 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  <tr>
    <td colspan="2">
 
-🏠︎ [realt23](https://mrhoft.github.io/realt23/) (Angular, Tailwind). Crossplatform real estate CRM demo.
+🏠︎ [realt23](https://mrhoft.github.io/realt23/) (PWA, Angular, Tailwind). Crossplatform real estate CRM demo.
 
 📈 Cavex (private app) (PWA, SW, Express, Postgres, Vite, React, AWS). Lightweight and fast crossplatform CRM: Production, Stock, Defects, Repairs, Returns, Catalog, Sales, Orders, Bids, Shipments, Accounting, Management.
 
 📚 [Prozhito project](https://prozhito.org/), [help](https://help.prozhito.org/), [achive](https://achive.prozhito.org/) (Turborepo, Next, React). Global historical documents archive database.
 
-🐾 [Nimble Paws](https://yandex.ru/games/app/477305) game (Vite, Core JS, Canvas).
+🐾 [Nimble Paws](https://yandex.ru/games/app/477305) game (PWA, Vite, Core JS, Canvas).
    </td>
   </tr>
  <tr>
@@ -52,9 +52,9 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
 
 💳 [Ether Wallet](https://github.com/mrHoft/etherwallet) (Vite, Vue, ethers)
 
-🧪 [Genesis lab](https://genesis-lab.deno.dev/) (Deno, Angular)
+🧪 [Genesis lab](https://genesis-lab.deno.dev/) (Deno, Postrgress, Angular)
 
-🎮 [Medley world](https://medley.deno.dev) game (Vite, Pixi, Spine)
+🎮 [Maelrift](https://medley.deno.dev) game (Nest, Typeorm, Postrgress, Pixi, Spine)
 
 🔆 [Badge service](https://github.com/daytec-org/badge) (Deno, Oak, React)
 
