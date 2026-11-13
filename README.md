@@ -50,6 +50,8 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
  <tr>
    <td>
 
+🥦 [Nutrilite](https://github.com/mrHoft/nutrilite) (Vite, Vue, custom markdown parser)
+
 💳 [Ether Wallet](https://github.com/mrHoft/etherwallet) (Vite, Vue, ethers)
 
 🧪 [Genesis lab](https://genesis-lab.deno.dev/) (Deno, Postrgress, Angular)
