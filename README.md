@@ -4,7 +4,7 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
 
 [![telegram](https://github.com/mrHoft/mrHoft/blob/main/public/badge/telegram.svg)](https://t.me/mrHoft)
 [![discord](https://github.com/mrHoft/mrHoft/blob/main/public/badge/discord.svg)](https://discord.gg/mr.hoft)
-[![counter](https://counter.daytec.ru/mrHoft/?title=Visits)](https://github.com/mrHoft/visit-counter)
+<!-- [![counter](https://counter.daytec.ru/mrHoft/?title=Visits)](https://github.com/mrHoft/visit-counter) -->
 
 ### Tech Stack:
 
@@ -52,7 +52,7 @@ I am a fullstack/game developer and JS/TS practitioner with over 5 years of expe
 
 🥦 [Nutrilite](https://github.com/mrHoft/nutrilite) (Vite, Vue, custom markdown parser)
 
-💳 [Ether Wallet](https://github.com/mrHoft/etherwallet) (Vite, Vue, Web3)
+💳 [Funds](https://github.com/mrHoft/funds) web3 app (Vite, Vue, ethers, tronweb)
 
 🧪 [Genesis lab](https://genesis-lab.deno.dev/) (Deno, Postrgress, Angular)
 
